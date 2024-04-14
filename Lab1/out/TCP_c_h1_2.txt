@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 8763
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 41450 connected with 10.0.0.3 port 8763
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec   264 KBytes  2.17 Mbits/sec
+[  3]  1.0- 2.0 sec  93.3 KBytes   765 Kbits/sec
+[  3]  2.0- 3.0 sec   124 KBytes  1.02 Mbits/sec
+[  3]  3.0- 4.0 sec   124 KBytes  1.02 Mbits/sec
+[  3]  4.0- 5.0 sec   124 KBytes  1.02 Mbits/sec
+[  3]  0.0- 5.2 sec   731 KBytes  1.14 Mbits/sec
